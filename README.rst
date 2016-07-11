@@ -10,7 +10,7 @@ Libreria per arduino, general desc
 Blinks
 ==========
 
-Desc of blinks
+Gestito da Andrea
 
 Manutenzione
 --------------
@@ -23,13 +23,24 @@ Manutenzione
 PWM
 =========
 
-Desc of PWMs
+Desc of PWMs.
+
+Gestito da:
+
+
+* Salvatore
+* Michele
 
 
 KnightRider
 ==============
 
 Desc of knight rider
+
+GEstiti da:
+
+* Carmine
+* Mario
 
 
 Struttura
