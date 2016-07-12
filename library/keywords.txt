@@ -1,0 +1,6 @@
+Lampeggiatore       KEYWORDS1
+Blink       KEYWORDS2
+PWM       KEYWORDS1
+Up       KEYWORDS2
+Down       KEYWORDS2
+UD       KEYWORDS2
