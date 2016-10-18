@@ -106,7 +106,7 @@ Gestiti da:
 Esempio funzionante
 -------------------
 
-`./knight_rider/knight_rider_led_stream/knight_rider_led_stream.ino`_
+./knight_rider/knight_rider_led_stream/knight_rider_led_stream.ino
 
 Strategia
 ---------
@@ -162,7 +162,7 @@ oppure:
 
 Video dimostrativo:
 
-    `https://vimeo.com/180419866`_
+    https://vimeo.com/180419866
 
 Struttura del repo
 ======================
