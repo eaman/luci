@@ -124,6 +124,8 @@ poi (a velocita' ancora superiore) il led selezionato e i due adiacenti.
 Esempio di utilizzo
 -------------------
 
+::
+
     KnightRiderLedStream stream1 = KnightRiderLedStream();
 
     void setup() {
@@ -140,6 +142,8 @@ Esempio di utilizzo
     }
 
 oppure:
+
+::
 
     KnightRiderLedStream stream1 = KnightRiderLedStream();
     KnightRiderLedStream stream2 = KnightRiderLedStream();
