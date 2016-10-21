@@ -155,7 +155,13 @@ KnightRiderLedStream stream2 = KnightRiderLedStream();
 
 void setup() {
   Serial.begin(9600);
-  stream1.initialize(2, 10, 30, 120);
+
+  stream1.initialize(
+    2,    // start_index
+    10,   // end_index
+    30,   // deltat_min
+    120   // deltat_max
+  );
 
   // stream1.initialize(2, 5, 30, 120);
   // stream2.initialize(6, 9, 30, 120);
